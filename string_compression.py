@@ -8,6 +8,7 @@ def compressString(string):
     currentCharacter = string[0]
     characterCount = 0
     compressedString = ""
+    
     for character in string:
         if(currentCharacter == character):
             characterCount += 1 
