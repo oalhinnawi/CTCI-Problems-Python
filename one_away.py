@@ -4,10 +4,13 @@
 
 # First Thoughts: if zero edits, they should be the same string(?)
 
+# UNFINISHED - checkInsertReplaceEdit needs fixing
+
 def checkInsertReplaceEdit(str_1, str_2):
     index_1 = 0
     index_2 = 0
     # Implement rest of this 
+
 
 
 def checkOneAway(str_1, str_2):
