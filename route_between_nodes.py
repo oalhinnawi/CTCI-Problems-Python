@@ -9,6 +9,8 @@ class Node:
     def __init__(self):
         print("teehee")
 
+        self.adjacencyList = []
+
 class Graph:
 
     def __init__(self):
